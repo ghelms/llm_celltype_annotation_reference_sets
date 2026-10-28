@@ -1,4 +1,0 @@
-# Copy this file to .Renviron (ignored by git) and fill in your key.
-OPENAI_API_KEY=your-key-here
-# Optional: any OpenAI-compatible chat completions endpoint
-# LLM_BASE_URL=https://api.openai.com/v1/chat/completions
