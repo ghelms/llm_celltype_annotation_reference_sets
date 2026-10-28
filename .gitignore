@@ -9,7 +9,7 @@
 
 # Secrets
 .Renviron
-.Renviron.example
+.example
 
 # Data (too large for git, download separately)
 data/
