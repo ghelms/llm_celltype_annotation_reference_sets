@@ -100,7 +100,3 @@ httr, jsonlite.
   adjusted p-value, and a single prompt were tested.
 - This is exploratory project code, written in notebooks rather than as a
   package.
-
-## License
-
-MIT

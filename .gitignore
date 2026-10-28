@@ -4,10 +4,12 @@
 .Rapp.history
 .RData
 .Ruserdata
+.Rproj
 *.html
 
 # Secrets
 .Renviron
+.Renviron.example
 
 # Data (too large for git, download separately)
 data/
