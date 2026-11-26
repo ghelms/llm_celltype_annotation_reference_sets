@@ -1,0 +1,22 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj
+*.html
+
+# Secrets
+.Renviron
+.example
+
+# Data (too large for git, download separately)
+data/
+*.rds
+*.h5ad
+results/marker_logs/
+
+# macOS
+.DS_Store
+__MACOSX/
